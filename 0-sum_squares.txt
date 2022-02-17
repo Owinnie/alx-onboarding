@@ -1,0 +1,15 @@
+
+
+-Ask user to INPUT n numbers; store INPUT in variable USER_INPUT
+-Set variable USER_LIST to refer to a list of the values of USER_INPUT (USER_INPUT.spilt())
+
+- Set up a FOR loop (condition: FOR i in the range of the length of USER_LIST)
+	- Convert values in USER_LIST to INTEGERS (int(USER_LIST[i]))
+
+- Set variable LIST_SQD to refer to an empty list ([])
+- Set up a FOR loop (condition: for numbers in USER_LIST)
+	- Find squares of the numbers in USER_LIST
+	- Add the squared numbers to LIST_SQD (LIST_SQD.append())
+
+- Print LIST_SQD
+- Print the sum of LIST_SQD (sum(LIST_SQD))
