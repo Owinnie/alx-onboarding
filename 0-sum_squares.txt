@@ -1,3 +1,8 @@
+/**
+   develop an algorithm
+
+   calculate the sum of squares of given input of numbers
+*/
 
 
 -Ask user to INPUT n numbers; store INPUT in variable USER_INPUT
