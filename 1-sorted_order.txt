@@ -1,0 +1,22 @@
+
+
+- Write “Give me 3 numbers”
+- Read num1, num2, num3
+
+- If num1 < num2 < num3 
+Print num1 , num2, num3 
+
+- else If num1 < num3 < num2 
+Print num1 , num2, num3 
+
+- else If num2 < num1 < num3 
+Print num2 , num1, num3 
+
+- else If num2 < num3 < num1 
+Print num2 , num3, num1 
+
+- else If num3 < num1 < num2 
+Print num3 , num1, num2 
+
+- else If num3 < num2< num1 
+Print num3 , num2, num1
