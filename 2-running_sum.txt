@@ -1,0 +1,10 @@
+
+
+- Write “Enter a number”
+- Read x
+- Set variable sum equal to 0
+- WHILE x is greater than or equal to 0
+	- Set sum to sum + x
+	- Print sum
+	- Read x
+	- Print final sum in case of a negative number
