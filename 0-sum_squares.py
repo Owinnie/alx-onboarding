@@ -1,3 +1,4 @@
+# Note: the code below contains a lot of guiding/leading code
 user_input = input('Please write 5 numbers separated by spaces. Do not use commas: \n')
 
 
